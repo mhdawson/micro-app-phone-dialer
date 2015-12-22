@@ -1,0 +1,11 @@
+{
+  "serverPort": 3000,
+  "phoneIP": "your phone IP",
+  "dialOptions": [
+                   { "title": "My Conference Number", "line": 1, "dial": "1-555-555-5555", "afterdial": ",,,,,1234567#,,,,,,*123456#" },
+                   { "title": "Canada Conference Number", "line": 1, "dial": "1-555-555-5555" },
+                   { "title": "General Conference Number", "line": 1, "dial": "1-555-555-5555" },
+                   { "title": "HANG UP", "key": "speaker" },
+                   { "title": "MUTE", "key": "mute" }
+                 ]
+}
