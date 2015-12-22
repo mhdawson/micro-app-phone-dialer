@@ -2,7 +2,7 @@
 
 Simple phone dialer for cisco phones
 
-![sample phone-dialer page](pictures/phone-dialer-window.jpg?raw=true)
+![sample phone-dialer page](https://raw.githubusercontent.com/mhdawson/micro-app-phone-dialer/master/pictures/phone-dialer-window.jpg)
 
 # Usage
 
@@ -73,7 +73,7 @@ will be created.
 
 The following is the page shown for my configuration:
 
-![sample phone-dialer page](pictures/phone-dialer-window.jpg?raw=true)
+![sample phone-dialer page](https://raw.githubusercontent.com/mhdawson/micro-app-phone-dialer/master/pictures/phone-dialer-window.jpg)
 
 #Key Depdencies
 
