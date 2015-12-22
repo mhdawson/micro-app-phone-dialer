@@ -11,6 +11,7 @@ After installation modify ../lib/config.json to match your configuration
 You need to:
 
 1.Change "your phone IP" to be the IP address of your phone.
+
 2.Add entries in "dialOptions" in order to match the numbers you want to dial
 
 Each entry in dialOption can either be an entry to dial a phone number or an entry to
