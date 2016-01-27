@@ -76,6 +76,10 @@ The following is the page shown for my configuration:
 
 ![sample phone-dialer page](https://raw.githubusercontent.com/mhdawson/micro-app-phone-dialer/master/pictures/phone-dialer-window.jpg)
 
+# Phones tested
+
+* Cisco SPA504G
+
 #Key Depdencies
 
 ## micro-app-framework
