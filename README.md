@@ -70,6 +70,11 @@ If you have configured your browswer to allow javascript to close the current pa
 the original window will be closed and one with the correct size of the phone-dialer
 will be created.
 
+To dial any of the configured entries, simply click the button for that entry.
+
+To dial additional digits, type those digits into the input box and hit the
+SEND button beside the input box.
+
 #Example
 
 The following is the page shown for my configuration:
