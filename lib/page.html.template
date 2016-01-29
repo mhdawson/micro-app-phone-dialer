@@ -35,6 +35,11 @@ license that can be found in the LICENSE file.
       function startRequest(request, entry) {
         socket.emit(request, entry);
       }
+
+      function sendDigits() {
+        var digitsElement = document.getElementById("digits");
+        startRequest('digits_request', digits.value);
+      }
     </script>
 
     <table width="100%" style="font-size:15px">
