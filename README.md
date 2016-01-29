@@ -108,4 +108,3 @@ Used to send commands to the phone
 * Add more documentation
 * Better support for multiple lines
 * nicer page layout
-* Ability to cut and paste number info box and then dial
