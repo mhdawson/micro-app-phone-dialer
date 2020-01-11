@@ -38,7 +38,12 @@ The list of available keys is as documented in: [cisco programming guide](http:/
 3.Optionally modify serverPort which is the port on which the server for the micro
    app will be listening
 
-As an example the configuration file that comes with the install is:
+4. Optionally add "basicAuth": "XXXX"
+
+where XXXX is the encoded basicAuth token that you want to be sent to the phone in 
+an Authorization header. Some phones seem to require this to accept connections.
+
+ an example the configuration file that comes with the install is:
 
 <PRE>
 {
