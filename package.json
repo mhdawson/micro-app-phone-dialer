@@ -1,6 +1,6 @@
 {
   "name": "micro-app-phone-dialer",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Simple phone-dialer for cisco phones",
   "main": "lib/server.js",
   "scripts": {
